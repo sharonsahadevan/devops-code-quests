@@ -1,5 +1,3 @@
-### GitHub README Draft
-
 # DevOps Coding Challenges
 
 Welcome to **DevOps Coding Challenges**—a collection of practical coding problems and solutions tailored for DevOps engineers. This repo pairs with my newsletter, where I drop weekly challenges in **Python** and **Golang** to help you sharpen your automation, scripting, and systems skills.
